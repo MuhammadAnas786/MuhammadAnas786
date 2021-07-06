@@ -6,7 +6,6 @@
 
 Here are some ideas to get you started:
 -->
-    [![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadAnas786&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=MuhammadAnas786)
 
