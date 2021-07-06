@@ -1,11 +1,8 @@
   <h1 align="center">Hi there 👋 Anas here :sunglasses:<h1>
   <h3 align="center">A developer, freelancer and entrepreneur. Exploring and learning new technologies everyday 🔥💯 <h3>
 
-<!--
-**MuhammadAnas786/MuhammadAnas786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadAnas786&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some ideas to get you started:
--->
 
 ![](https://komarev.com/ghpvc/?username=MuhammadAnas786)
 
