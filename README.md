@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on servers
 - 💬 Ask me about websites
 - 🦾 Goals-> Blockchain, Cloud, Typescript, Decentralized, Best practies
-- 📫 How to reach me: anasikram@protonmail.co
+- 📫 How to reach me: anasikram@protonmail.com
 
