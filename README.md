@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 Anas here :sunglasses:<h1>
-  <h3 align="center">A developer, freelancer and entrepreneur. Exploring and learning new technologies everyday.<h3>
+  <h1 align="center">Hi there 👋 Anas here :sunglasses:<h1>
+  <h3 align="center">A developer, freelancer and entrepreneur. Exploring and learning new technologies everyday 🔥💯 <h3>
 
 <!--
 **MuhammadAnas786/MuhammadAnas786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
