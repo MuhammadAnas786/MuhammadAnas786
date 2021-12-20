@@ -8,6 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/anas_ikram_" target="blank"><img src="https://img.shields.io/twitter/follow/anas_ikram_?logo=twitter&style=for-the-badge" alt="anasikram" /></a> </p>
 
+    Hire me!
+    <a a href="https://fiverr.com/anasikram">fiverr.com/anasikram</a>
+    
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning Backend architecture
 - 👯 I’m looking to collaborate on servers
