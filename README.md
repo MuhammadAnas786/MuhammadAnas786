@@ -1,4 +1,4 @@
-  <h1 align="center">Hi there 👋 Anas here :sunglasses:<h1>
+  <h1 align="center">Hi there 👋 Muhammad here :sunglasses:<h1>
   <h3 align="center">A developer, freelancer and entrepreneur. Exploring and learning new technologies everyday 🔥💯 <h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadAnas786&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
