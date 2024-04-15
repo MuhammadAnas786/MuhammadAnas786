@@ -26,11 +26,8 @@
     
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/anasikram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anas" height="30" width="40" /></a>
 <a href="https://twitter.com/anas_ikram_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mriceflame" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-anas-b9496517a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anas" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_anas_ikram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_anas_ikram" height="30" width="40" /></a>
-<a href="https://www.facebook.com/muhammadanasikram/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="muhammadanasikram" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
