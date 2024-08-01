@@ -8,9 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/anas_ikram_" target="blank"><img src="https://img.shields.io/twitter/follow/anas_ikram_?logo=twitter&style=for-the-badge" alt="anasikram" /></a> </p>
 
-   <p> Hire me!<br/>
-    <a a href="https://fiverr.com/anasikram">fiverr.com/anasikram</a>
-    </p>
+  
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning Backend architecture
 - 👯 I’m looking to collaborate on servers
@@ -83,5 +81,4 @@
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAnas786&show_icons=true&locale=en" alt="MuhammadAnas786" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAnas786" alt="MuhammadAnas786" /></p>
 
