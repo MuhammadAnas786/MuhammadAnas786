@@ -1,7 +1,7 @@
   <h1 align="center">Hi there 👋 Muhammad here :sunglasses:<h1>
   <h3 align="center">A developer, freelancer and entrepreneur. Exploring and learning new technologies everyday 🔥💯 <h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadAnas786&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ![](https://komarev.com/ghpvc/?username=MuhammadAnas786)
@@ -75,10 +75,5 @@
 
 
 
-<p align="center">
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAnas786&show_icons=true&locale=en&layout=compact" alt="MuhammadAnas786" />
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAnas786&show_icons=true&locale=en" alt="MuhammadAnas786" />
-</p>
 
 
