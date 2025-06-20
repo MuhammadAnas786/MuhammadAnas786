@@ -6,13 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/rhami" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rhami?style=flat&logo=twitter" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="mailto:sol.rhamii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sol.rhamii%40gmail.com-1178C6?style=flat&logo=gmail" alt="Email" />
-  </a>
+  <a href="https://x.com/rhami" target="blank"><img src="https://img.shields.io/twitter/follow/rhami?logo=twitter&style=for-the-badge" alt="rhami" /></a> 
+
 </p>
 
 <p align="center">🔭 Working On <strong>MERN Dapps</strong> • Solana SDK • Web3.js • Rust</p>
@@ -41,7 +36,11 @@
   <!-- DevOps & Cloud -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"   alt="Docker"    width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/kubernetes.svg"                            alt="Kubernetes"width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"      width="30" height="30" />
+  <img
+  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg"
+  alt="AWS"
+  width="30" height="30" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"      alt="GCP"      width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/terraform.svg"                             alt="Terraform" width="30" height="30" />
   &nbsp;&nbsp;
