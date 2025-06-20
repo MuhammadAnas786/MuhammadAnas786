@@ -4,14 +4,21 @@
 
 ---
 
+<!-- ====== PROFILE VIEWS ====== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAnas786&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
 <!-- ====== SOCIAL ====== -->
 <p align="center">
   <a href="https://x.com/rhami" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rhami?style=flat&logo=twitter" alt="Follow me on Twitter">
+    <img src="https://img.shields.io/twitter/follow/rhami?style=flat&logo=twitter" alt="Follow me on Twitter" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:sol.rhamii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sol.rhamii%40gmail.com-1178C6?style=flat&logo=gmail" alt="Email me">
+    <img src="https://img.shields.io/badge/Email-sol.rhamii%40gmail.com-1178C6?style=flat&logo=gmail" alt="Email me" />
   </a>
 </p>
 
@@ -19,7 +26,7 @@
 
 <!-- ====== ABOUT ====== -->
 <p align="center">
-  🔭 Currently exploring <strong>MERN</strong> / Solana SDK / Web3.js / Rust  
+  🔭 Exploring <strong>MERN</strong> • Solana SDK • Web3.js • Rust  
   <br>
   🌱 Learning AI & ML  
   <br>
@@ -30,12 +37,12 @@
 
 <!-- ====== SKILLS ====== -->
 <p align="center">
-  <img alt="React"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"     width="30" />
-  <img alt="Node.js"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"   width="30" />
-  <img alt="MongoDB"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"   width="30" />
-  <img alt="Solana"     src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/solana-icon.png"            width="30" />
-  <img alt="Rust"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"         width="30" />
-  <img alt="Python"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"   width="30" />
-  <img alt="Docker"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"   width="30" />
-  <img alt="GCP"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"     alt="React"     width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"   alt="Node.js"   width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"   alt="MongoDB"   width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/solana-icon.png"            alt="Solana"    width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"         alt="Rust"      width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"   alt="Python"    width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"   alt="Docker"    width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP"      width="30" height="30" />
 </p>
