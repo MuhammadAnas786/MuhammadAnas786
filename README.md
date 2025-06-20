@@ -9,6 +9,8 @@
   <a href="https://x.com/rhami" target="blank"><img src="https://img.shields.io/twitter/follow/rhami?logo=twitter&style=for-the-badge" alt="rhami" /></a> 
 
 </p>
+<p align="center">sol.rhamii@gmail.com</p>
+
 
 <p align="center">🔭 Working On <strong>MERN Dapps</strong> • Solana SDK • Web3.js • Rust</p>
 <p align="center">🌱 Learning AI &amp; ML</p>
