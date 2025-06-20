@@ -10,17 +10,13 @@
 
   
 - 🔭 I’m currently working on MERN stack
+-  I’m currently working on Solana
 - 🌱 I’m currently learning Backend architecture
 - 👯 I’m looking to collaborate on servers
 - 💬 Ask me about websites
 - 📫 How to reach me: anasikram@protonmail.com
     
-🦾 Goals -> 
-   - Blockchain
-   -  Cloud
-   - Typescript
-   - Decentralized
-   - Best practies
+
     
  <h3 align="left">Connect with me:</h3>
 <p align="left">
