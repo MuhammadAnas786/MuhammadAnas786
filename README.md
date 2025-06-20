@@ -1,4 +1,4 @@
-  <h1 align="center">Hi there 👋 Muhammad here :sunglasses:<h1>
+  <h1 align="center">Hi 👋 Rhami here :sunglasses:<h1>
   <h3 align="center">A developer, freelancer and entrepreneur. Exploring and learning new technologies everyday 🔥💯 <h3>
 
 
