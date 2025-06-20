@@ -9,18 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=MuhammadAnas786&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
-<!-- ====== SOCIAL ====== -->
-<p align="center">
-  <a href="https://x.com/rhami" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rhami?style=flat&logo=twitter" alt="Follow me on Twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:sol.rhamii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sol.rhamii%40gmail.com-1178C6?style=flat&logo=gmail" alt="Email me" />
-  </a>
-</p>
 
 ---
 
@@ -40,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"   alt="Node.js"   width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"   alt="MongoDB"   width="30" height="30" />
   <!-- Solana (Simple-Icons) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/solana.svg"                        alt="Solana"    width="30" height="30" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/solana.svg" alt="Solana" width="30" height="30" />
   <!-- Rust (Simple-Icons) -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/rust.svg"                          alt="Rust"      width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"   alt="Python"    width="30" height="30" />
