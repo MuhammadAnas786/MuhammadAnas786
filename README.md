@@ -1,19 +1,15 @@
   <h1 align="center">Hi 👋 Rhami here!<h1>
   <h3 align="center">A developer, freelancer and entrepreneur. Exploring and learning new technologies everyday 🔥💯 <h3>
 
-
-
-
 ![](https://komarev.com/ghpvc/?username=MuhammadAnas786)
 
 <p align="left"> <a href="https://x.com/rhami" target="blank"><img src="https://img.shields.io/twitter/follow/rhami?logo=twitter&style=for-the-badge" alt="rhami" /></a> </p>
 
   
-- 🔭 I’m currently working on MERN stack
--   Working on Solana
-- 🌱 I’m currently learning Backend architecture
-- 👯 I’m looking to collaborate on servers
-- 💬 Ask me about websites
+- 🔭 MERN stack, Solana sdk, Web3.js, Anchor, Rust
+- 🌱 I’m currently learning AI/ML.
+- 👯 Collaborating with Teams, Projects, High latency backend Servers and MVC architecture apps.
+- 💬 Ask me about Bots, Websites, Web Scrapers, RPCs & GRPCs
 - 📫 How to reach me: sol.rhamii@gmail.com
     
 
