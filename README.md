@@ -15,11 +15,9 @@
   </a>
 </p>
 
-<p align="center">
-  🔭 Exploring <strong>MERN</strong> • Solana SDK • Web3.js • Rust &nbsp;  
-  🌱 Learning AI & ML &nbsp;  
-  💬 Ask me about Bots • Scrapers • RPCs & gRPCs
-</p>
+<p align="center">🔭 Working On <strong>MERN Dapps</strong> • Solana SDK • Web3.js • Rust</p>
+<p align="center">🌱 Learning AI &amp; ML</p>
+<p align="center">💬 Ask me about Bots • Scrapers • RPCs &amp; gRPCs</p>
 
 <h3 align="center">🛠️ Tech & Tools</h3>
 <p align="center">
