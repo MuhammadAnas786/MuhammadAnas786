@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MuhammadAnas786)
 
-<p align="left"> <a href="https://twitter.com/anas_ikram_" target="blank"><img src="https://img.shields.io/twitter/follow/anas_ikram_?logo=twitter&style=for-the-badge" alt="anasikram" /></a> </p>
+<p align="left"> <a href="https://x.com/rhami" target="blank"><img src="https://img.shields.io/twitter/follow/rhami?logo=twitter&style=for-the-badge" alt="rhami" /></a> </p>
 
   
 - 🔭 I’m currently working on MERN stack
