@@ -34,15 +34,17 @@
 </p>
 
 ---
-
 <!-- ====== SKILLS ====== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"     alt="React"     width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"   alt="Node.js"   width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"   alt="MongoDB"   width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/solana-labs/oyster/main/assets/solana-icon.png"            alt="Solana"    width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"         alt="Rust"      width="30" height="30" />
+  <!-- Solana (Simple-Icons) -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/solana.svg"                        alt="Solana"    width="30" height="30" />
+  <!-- Rust (Simple-Icons) -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/rust.svg"                          alt="Rust"      width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"   alt="Python"    width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"   alt="Docker"    width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP"      width="30" height="30" />
 </p>
+
