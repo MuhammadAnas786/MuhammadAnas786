@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://x.com/rhami" target="blank"><img src="https://img.shields.io/twitter/follow/rhami?logo=twitter&style=for-the-badge" alt="rhami" /></a> </p>
 
   
-- 🔭 MERN stack, Solana sdk, Web3.js, Anchor, Rust
+- 🔭 MERN stack, Solana sdk, Web3.js, Anchor & Rust
 - 🌱 I’m currently learning AI/ML.
 - 👯 Collaborating with Teams, Projects, High latency backend Servers and MVC architecture apps.
 - 💬 Ask me about Bots, Websites, Web Scrapers, RPCs & GRPCs
