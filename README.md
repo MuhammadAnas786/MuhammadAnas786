@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I’m Rhami</h1>
-<p align="center">Developer • Freelancer • Entrepreneur</p>
+<p align="center">Developer  • Entrepreneur</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammadAnas786&style=flat-square" alt="Profile Views" />
